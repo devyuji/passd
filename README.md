@@ -2,7 +2,8 @@
 
 Generate Strong Passwords
 
-#demo
+## demo
+
 https://friendly-bell-c7697d.netlify.app/
 
 ## Installation
