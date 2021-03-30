@@ -1,7 +1,7 @@
 function Doc() {
   return (
     <div className="doc_container">
-      <h1>How To Make A Strong Password?</h1>
+      <h1>What make a password strong?</h1>
       <ul>
         <li>At least 10 characters—the more characters, the better.</li>
         <li>A mixture of both uppercase and lowercase letters.</li>
